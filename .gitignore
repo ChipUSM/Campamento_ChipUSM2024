@@ -4,3 +4,8 @@ Dia_2/objects/
 Dia_2/reports/
 Dia_2/results/ihp-sg13g2/spi/base/*
 !Dia_2/results/ihp-sg13g2/spi/base/sg13g2.map
+Dia_3/logs/
+Dia_3/reports/
+Dia_3/objects/
+Dia_3/results/ihp-sg13g2/ihp-chip/base/*
+!Dia_3/results/ihp-sg13g2/ihp-chip/base/sg13g2.map
